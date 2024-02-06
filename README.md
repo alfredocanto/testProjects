@@ -1,4 +1,3 @@
-![MasterHead](<h1>hola</h1>)
 <h1 align="center">Hi 👋, I'm Alfredo Canto</h1>
 <h3 align="center">Full-stack Develope from Argentina ☀</h3>
 
