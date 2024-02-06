@@ -1,6 +1,9 @@
 <img src="https://github.com/alfredocanto/alfredocanto/blob/main/github-header-image.jpg">
+
+
 <h1 align="center">Hi 👋, I'm Alfredo Canto</h1>
-<h3 align="center">Full-stack Develope from Argentina ☀</h3>
+
+<h3 align="center">Full-stack Developer from Argentina ☀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredocanto&label=Profile%20views&color=0e75b6&style=flat" alt="alfredocanto" /> </p>
 
